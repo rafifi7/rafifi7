@@ -2,7 +2,9 @@
 - 👀 I’m interested in artificial intelligence and machine learning.
 - 🌱 I’m currently learning Java. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me
+rafeeadnan7@gmail.com
+radnan@purdue.edu
 
 <!---
 rafifi7/rafifi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
