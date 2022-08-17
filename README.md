@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafee Adnan, a freshman at Purdue University studying Computer Science.
 - 👀 I’m interested in artificial intelligence and machine learning.
-- 🌱 I’m currently learning Java. 
+- 🌱 I’m currently learning Java, Python, and assembly.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 rafeeadnan7@gmail.com
