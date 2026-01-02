@@ -2,7 +2,6 @@
 - 👀 I’m interested in machine learning and software engineering.
 - 📫 How to reach me
 rafeeadnan7@gmail.com
-radnan@purdue.edu
 
 <!---
 rafifi7/rafifi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
